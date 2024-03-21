@@ -1,0 +1,4 @@
+﻿  test.c
+E:\大二上\数据结构\代码保存\SequentialSearch\SequentialSearch\test.c(55,17): warning C4013: “Search_Bin1”未定义；假设外部返回 int
+E:\大二上\数据结构\代码保存\SequentialSearch\SequentialSearch\test.c(69,17): warning C4013: “Search_Bin2”未定义；假设外部返回 int
+  SequentialSearch.vcxproj -> E:\大二上\数据结构\代码保存\SequentialSearch\Debug\SequentialSearch.exe

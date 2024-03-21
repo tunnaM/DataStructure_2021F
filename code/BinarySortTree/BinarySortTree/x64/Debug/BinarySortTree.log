@@ -1,0 +1,8 @@
+﻿  BinarySortTree.c
+E:\大二上\数据结构\代码保存\BinarySortTree\BinarySortTree\BinarySortTree.c(118,13): warning C4047: “!=”:“BiTree”与“BiTree *”的间接级别不同
+  test.c
+E:\大二上\数据结构\代码保存\BinarySortTree\BinarySortTree\test.c(7,15): warning C4101: “p”: 未引用的局部变量
+E:\大二上\数据结构\代码保存\BinarySortTree\BinarySortTree\test.c(7,12): warning C4101: “f”: 未引用的局部变量
+  正在生成代码...
+E:\大二上\数据结构\代码保存\BinarySortTree\BinarySortTree\BinarySortTree.c(86): warning C4715: “DeleteBST”: 不是所有的控件路径都返回值
+  BinarySortTree.vcxproj -> E:\大二上\数据结构\代码保存\BinarySortTree\x64\Debug\BinarySortTree.exe

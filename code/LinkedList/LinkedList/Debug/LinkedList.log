@@ -1,0 +1,25 @@
+﻿  LinkList.c
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(20,13): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(25,14): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(47,15): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(39,1): warning C4133: “初始化”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(62,14): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(70,13): warning C4133: “=”: 从“LinkList”到“LNode *”的类型不兼容
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(82,14): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(76,1): warning C4133: “初始化”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(96,14): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(101,13): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(120,17): warning C4133: “=”: 从“LinkList”到“LNode *”的类型不兼容
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\LinkList.c(136,14): warning C4133: “=”: 从“LinkList”到“LNode *”的类型不兼容
+  test.c
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\test.c(10,13): warning C4047: “=”:“ElemType”与“ElemType *”的间接级别不同
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\test.c(27,14): warning C4047: “函数”:“LinkList”与“LinkList *”的间接级别不同
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\test.c(27,12): warning C4024: “GetElem_L”: 形参和实参 1 的类型不同
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\test.c(27,21): warning C4047: “函数”:“ElemType *”与“ElemType **”的间接级别不同
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\test.c(27,19): warning C4024: “GetElem_L”: 形参和实参 3 的类型不同
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\test.c(29,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“ElemType *”
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\test.c(33,25): warning C4047: “函数”:“ElemType *”与“ElemType **”的间接级别不同
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\test.c(33,22): warning C4024: “ListDelete_L”: 形参和实参 3 的类型不同
+E:\大二上\数据结构\代码保存\LinkedList\LinkedList\test.c(34,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“ElemType *”
+  正在生成代码...
+  LinkedList.vcxproj -> E:\大二上\数据结构\代码保存\LinkedList\Debug\LinkedList.exe

@@ -1,0 +1,20 @@
+﻿  String.c
+E:\大二上\数据结构\代码保存\String\String\String.c(10,12): warning C4013: “strlen”未定义；假设外部返回 int
+E:\大二上\数据结构\代码保存\String\String\String.c(101,13): warning C4013: “StrDelete”未定义；假设外部返回 int
+  test.c
+E:\大二上\数据结构\代码保存\String\String\test.c(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+E:\大二上\数据结构\代码保存\String\String\test.c : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+E:\大二上\数据结构\代码保存\String\String\test.c(18,16): warning C4047: “函数”:“unsigned char *”与“SString (*)”的间接级别不同
+E:\大二上\数据结构\代码保存\String\String\test.c(18,12): warning C4024: “SubString”: 形参和实参 1 的类型不同
+E:\大二上\数据结构\代码保存\String\String\test.c(23,12): warning C4047: “函数”:“unsigned char *”与“SString (*)”的间接级别不同
+E:\大二上\数据结构\代码保存\String\String\test.c(23,10): warning C4024: “StrCopy”: 形参和实参 1 的类型不同
+E:\大二上\数据结构\代码保存\String\String\test.c(35,13): warning C4047: “函数”:“unsigned char *”与“SString (*)”的间接级别不同
+E:\大二上\数据结构\代码保存\String\String\test.c(35,10): warning C4024: “Replace”: 形参和实参 1 的类型不同
+E:\大二上\数据结构\代码保存\String\String\test.c(46,11): warning C4047: “函数”:“unsigned char *”与“SString (*)”的间接级别不同
+E:\大二上\数据结构\代码保存\String\String\test.c(46,9): warning C4024: “Concat”: 形参和实参 1 的类型不同
+E:\大二上\数据结构\代码保存\String\String\test.c(7,14): warning C4101: “p”: 未引用的局部变量
+E:\大二上\数据结构\代码保存\String\String\test.c(7,9): warning C4101: “j”: 未引用的局部变量
+E:\大二上\数据结构\代码保存\String\String\test.c(7,6): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+E:\大二上\数据结构\代码保存\String\String\String.c(181): warning C4716: “Concat”: 必须返回一个值
+  String.vcxproj -> E:\大二上\数据结构\代码保存\String\Debug\String.exe

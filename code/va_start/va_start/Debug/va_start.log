@@ -1,0 +1,4 @@
+﻿  va.c
+E:\大二上\数据结构\代码保存\va_start\va_start\va.c(9,10): warning C4013: “max”未定义；假设外部返回 int
+E:\大二上\数据结构\代码保存\va_start\va_start\va.c(12,8): warning C4013: “system”未定义；假设外部返回 int
+  va_start.vcxproj -> E:\大二上\数据结构\代码保存\va_start\Debug\va_start.exe

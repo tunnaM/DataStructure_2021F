@@ -1,0 +1,8 @@
+﻿  test.c
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(39,12): warning C4047: “函数”:“SElemType *”与“SElemType **”的间接级别不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(39,10): warning C4024: “Pop”: 形参和实参 2 的类型不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(40,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SElemType *”
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(46,14): warning C4047: “函数”:“SElemType *”与“SElemType **”的间接级别不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(46,12): warning C4024: “GetTop”: 形参和实参 2 的类型不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(47,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SElemType *”
+  Stack.vcxproj -> E:\大二上\数据结构\代码保存\Stack\Debug\Stack.exe

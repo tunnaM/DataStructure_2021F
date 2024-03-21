@@ -1,0 +1,3 @@
+﻿  HashSearch.c
+E:\大二上\数据结构\代码保存\HashSearch\HashSearch\HashSearch.c(50,32): warning C4047: “!=”:“KeyType”与“void *”的间接级别不同
+  HashSearch.vcxproj -> E:\大二上\数据结构\代码保存\HashSearch\Debug\HashSearch.exe

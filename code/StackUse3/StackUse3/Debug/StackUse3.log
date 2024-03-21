@@ -1,0 +1,6 @@
+﻿  test.c
+E:\大二上\数据结构\代码保存\StackUse3\StackUse3\test.c(100,15): warning C4244: “return”: 从“SElemType2”转换到“Status”，可能丢失数据
+E:\大二上\数据结构\代码保存\StackUse3\StackUse3\test.c(129,25): warning C4244: “函数”: 从“int”转换到“SElemType2”，可能丢失数据
+E:\大二上\数据结构\代码保存\StackUse3\StackUse3\test.c(149,42): warning C4244: “函数”: 从“Status”转换到“SElemType2”，可能丢失数据
+E:\大二上\数据结构\代码保存\StackUse3\StackUse3\test.c(156,10): warning C4244: “return”: 从“SElemType2”转换到“Status”，可能丢失数据
+  StackUse3.vcxproj -> E:\大二上\数据结构\代码保存\StackUse3\Debug\StackUse3.exe

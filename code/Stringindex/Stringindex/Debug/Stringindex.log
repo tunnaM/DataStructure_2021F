@@ -1,0 +1,6 @@
+﻿  test.c
+E:\大二上\数据结构\代码保存\Stringindex\Stringindex\test.c(9,14): warning C4101: “p”: 未引用的局部变量
+E:\大二上\数据结构\代码保存\Stringindex\Stringindex\test.c(9,9): warning C4101: “j”: 未引用的局部变量
+E:\大二上\数据结构\代码保存\Stringindex\Stringindex\test.c(9,6): warning C4101: “i”: 未引用的局部变量
+E:\大二上\数据结构\代码保存\Stringindex\Stringindex\test.c(10,18): warning C4101: “T”: 未引用的局部变量
+  Stringindex.vcxproj -> E:\大二上\数据结构\代码保存\Stringindex\Debug\Stringindex.exe

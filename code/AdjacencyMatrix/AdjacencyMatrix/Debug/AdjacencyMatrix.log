@@ -1,0 +1,9 @@
+﻿  AdjacencyMatrix.c
+E:\大二上\数据结构\代码保存\AdjacencyMatrix\AdjacencyMatrix\AdjacencyMatrix.c(9,9): warning C4101: “j”: 未引用的局部变量
+E:\大二上\数据结构\代码保存\AdjacencyMatrix\AdjacencyMatrix\AdjacencyMatrix.c(63,7): warning C4013: “DFS”未定义；假设外部返回 int
+E:\大二上\数据结构\代码保存\AdjacencyMatrix\AdjacencyMatrix\AdjacencyMatrix.c(67,6): error C2371: “DFS”: 重定义；不同的基类型
+E:\大二上\数据结构\代码保存\AdjacencyMatrix\AdjacencyMatrix\AdjacencyMatrix.c(71,7): warning C4013: “Visit”未定义；假设外部返回 int
+E:\大二上\数据结构\代码保存\AdjacencyMatrix\AdjacencyMatrix\AdjacencyMatrix.c(73,22): warning C4013: “FirstAdjVex”未定义；假设外部返回 int
+E:\大二上\数据结构\代码保存\AdjacencyMatrix\AdjacencyMatrix\AdjacencyMatrix.c(73,52): warning C4013: “NextAdjVex”未定义；假设外部返回 int
+  test.c
+  正在生成代码...

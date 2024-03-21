@@ -1,0 +1,10 @@
+﻿  test.c
+E:\大二上\数据结构\代码保存\LinkQuene\LinkQuene\test.c(26,25): warning C4028: 形参 1 与声明不同
+E:\大二上\数据结构\代码保存\LinkQuene\LinkQuene\test.c(33,15): warning C4047: “函数”:“QElemType *”与“QElemType **”的间接级别不同
+E:\大二上\数据结构\代码保存\LinkQuene\LinkQuene\test.c(33,13): warning C4024: “GetHead”: 形参和实参 2 的类型不同
+E:\大二上\数据结构\代码保存\LinkQuene\LinkQuene\test.c(34,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“QElemType *”
+E:\大二上\数据结构\代码保存\LinkQuene\LinkQuene\test.c(38,16): warning C4047: “函数”:“QElemType *”与“QElemType **”的间接级别不同
+E:\大二上\数据结构\代码保存\LinkQuene\LinkQuene\test.c(38,14): warning C4024: “DeQueue”: 形参和实参 2 的类型不同
+E:\大二上\数据结构\代码保存\LinkQuene\LinkQuene\test.c(39,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“QElemType *”
+E:\大二上\数据结构\代码保存\LinkQuene\LinkQuene\test.c(41,25): warning C4028: 形参 1 与声明不同
+  LinkQuene.vcxproj -> E:\大二上\数据结构\代码保存\LinkQuene\Debug\LinkQuene.exe

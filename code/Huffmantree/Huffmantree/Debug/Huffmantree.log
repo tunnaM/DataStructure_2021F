@@ -1,0 +1,6 @@
+﻿  Huffmantree.c
+E:\大二上\数据结构\代码保存\Huffmantree\Huffmantree\Huffmantree.c(12,41): warning C4018: “<”: 有符号/无符号不匹配
+E:\大二上\数据结构\代码保存\Huffmantree\Huffmantree\Huffmantree.c(20,53): warning C4018: “<”: 有符号/无符号不匹配
+E:\大二上\数据结构\代码保存\Huffmantree\Huffmantree\Huffmantree.c(84,9): warning C4013: “strcpy”未定义；假设外部返回 int
+E:\大二上\数据结构\代码保存\Huffmantree\Huffmantree\Huffmantree.c(137,10): warning C4477: “printf”: 格式字符串“%-8s”需要类型“char *”的参数，但可变参数 4 拥有了类型“HuffmanCode”
+  Huffmantree.vcxproj -> E:\大二上\数据结构\代码保存\Huffmantree\Debug\Huffmantree.exe

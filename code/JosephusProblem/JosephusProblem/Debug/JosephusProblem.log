@@ -1,0 +1,9 @@
+﻿  JosephusProblem.c
+E:\大二上\数据结构\代码保存\JosephusProblem\JosephusProblem\JosephusProblem.c(18,20): warning C4133: “=”: 从“LinkList”到“LNode *”的类型不兼容
+E:\大二上\数据结构\代码保存\JosephusProblem\JosephusProblem\JosephusProblem.c(28,21): warning C4133: “!=”: 从“LinkList”到“LNode *”的类型不兼容
+E:\大二上\数据结构\代码保存\JosephusProblem\JosephusProblem\JosephusProblem.c(33,15): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\JosephusProblem\JosephusProblem\JosephusProblem.c(38,20): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\JosephusProblem\JosephusProblem\JosephusProblem.c(40,16): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\JosephusProblem\JosephusProblem\JosephusProblem.c(26,1): warning C4133: “初始化”: 从“LNode *”到“LinkList”的类型不兼容
+E:\大二上\数据结构\代码保存\JosephusProblem\JosephusProblem\JosephusProblem.c(22): warning C4715: “create_list”: 不是所有的控件路径都返回值
+  JosephusProblem.vcxproj -> E:\大二上\数据结构\代码保存\JosephusProblem\Debug\JosephusProblem.exe

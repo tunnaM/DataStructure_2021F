@@ -1,0 +1,14 @@
+﻿  Stack.c
+  test.c
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(11,24): warning C4047: “=”:“char *”与“int”的间接级别不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(11,32): warning C4047: “!=”:“char *”与“int”的间接级别不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(13,17): warning C4047: “==”:“char *”与“int”的间接级别不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(13,30): warning C4047: “==”:“char *”与“int”的间接级别不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(13,42): warning C4047: “==”:“char *”与“int”的间接级别不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(14,15): warning C4047: “函数”:“SElemType”与“char *”的间接级别不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(14,13): warning C4024: “Push”: 形参和实参 2 的类型不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(15,16): warning C4047: “==”:“char *”与“int”的间接级别不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(26,16): warning C4047: “==”:“char *”与“int”的间接级别不同
+E:\大二上\数据结构\代码保存\Stack\Stack\test.c(37,16): warning C4047: “==”:“char *”与“int”的间接级别不同
+  正在生成代码...
+  Stackuse.vcxproj -> C:\Users\DELL\source\repos\Stackuse\Debug\Stackuse.exe

@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\DELL\source\repos\BiTree\BiTree\test.c(16,12): warning C4101: “ch2”: 未引用的局部变量
+C:\Users\DELL\source\repos\BiTree\BiTree\test.c(16,17): warning C4101: “ch3”: 未引用的局部变量
+  BiTree.vcxproj -> C:\Users\DELL\source\repos\BiTree\Debug\BiTree.exe
